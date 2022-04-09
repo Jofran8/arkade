@@ -1,9 +1,7 @@
 import '../styles/css/Footer.css';
-import egLogo from '../assets/img/eg-logo.svg';
 import facebook from '../assets/img/facebook.svg';
 import instagram from '../assets/img/instagram.svg';
 import twiter from '../assets/img/twitter.svg';
-import urLogo from '../assets/img/ur-logo.svg';
 import youtube from '../assets/img/youtube.svg';
 
 const documentReady = () => {
@@ -123,7 +121,7 @@ const Footer = () => {
                 <article class="footer-credits-down__content">
                     <div class="footer-credits-down__paragraph-content">
                         <p class="footer-credits-down__paragraph">
-                            &copy; 2022, Arkade, Inc. Todos los derechos reservados. Arkade, Epic Games, el
+                            &copy; 2022, Arkade, Inc. Todos los derechos reservados. Arkade, el
                             logotipo de Arkade, es una tienda de Cómputo con la Mayor Variedad de Productos Informáticos a los Mejores Precios. Venta de Computadoras, Accesorios, Productos Gamer y mas.,tanto en Peru como al resto de la region. Otras marcas o nombres de productos son marcascomerciales de sus respectivos proietarios. Las transacciones fuera de Peru. se
                             realizan a través de Arkade International.
                         </p>
