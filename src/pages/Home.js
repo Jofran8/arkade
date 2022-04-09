@@ -1,15 +1,15 @@
 import Carrousel from '../components/Carrousel';
 import ProductosNuevos from '../components/ProductosNuevos';
 import SociosClaves from '../components/SociosClaves';
-import Explora from '../components/Explora';
 import Promocion from '../components/Promocion';
+import Categorias from '../components/Categorias';
 
 const Home = () => {
     return (
         <>
            <Carrousel/>
+           <Categorias/>
            <ProductosNuevos/>
-           <Explora/>
            <SociosClaves/>
            <Promocion/>
         </>
